@@ -22,3 +22,7 @@ Of course, I do not agree to the use of my script if your
 pure intentions are to bypass your networks security.
 
 Have fun.
+
+P.S: There are no previous commits to this repo as this was created
+offline and in a very timly manor. So this is just the raw upload of the code.
+Any future commits will simply be bug removal, and code cleaning.
